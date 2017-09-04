@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fragment</string>
+    <string name="title">我是标题</string>
+    <string name="favourite_fg_content">喜爱</string>
+    <string name="music_fg_content">音乐</string>
+    <string name="podcast_fg_content">播客</string>
+    <string name="setting_fg_content">设置</string>
+</resources>

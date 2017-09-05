@@ -15,8 +15,10 @@
         android:id="@+id/ly_navigation_bar"
         android:layout_width="match_parent"
         android:layout_height="45dp"
+        android:layout_alignParentBottom="true"
         layout="@layout/layout_navigation" />
-    <fragment
+
+    <FrameLayout
         android:id="@+id/fragment_content"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
